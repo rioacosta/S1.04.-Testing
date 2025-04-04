@@ -51,8 +51,7 @@ Instala las dependencias: npm install …
 
 ▶️ Ejecución
 
-Configura la base de datos a config/*database.js.
-Ejecuta el servidor: npm start
+Clona este repositorio 
 
 🌐 Despliegue
 
@@ -69,5 +68,3 @@ Crea una nueva rama git checkout -b feature/*NovaFuncionalitat
 has tus cambios y commiteja'*ls: git commit -m 'Añade Nueva Funcionalidad'
 Sube los cambios a tu rama: git push origin feature/*NovaFuncionalitat
 has un pull request
-About
-1.3-Java_Collections
